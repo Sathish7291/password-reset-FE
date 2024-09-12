@@ -41,7 +41,7 @@ const forgetpassword = async(e)=>{
       
     <div className="login" style={{height:"510px"}}>
     <div className="avatar" style={{width:"100px", height:"100px"}}>
-        <img src={icon} />
+      
       </div>
       <h2>Forget Password</h2>
       <h3>Enter your email to get reset link </h3>

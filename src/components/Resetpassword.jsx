@@ -56,7 +56,7 @@ function Resetpassword() {
       )}
     <div className="login" style={{height:"530px",paddingTop:"50px"} }>
       <div className="avatar" style={{width:"100px", height:"100px"}}>
-        <img src={icon} />
+       
       </div>
         <h2>Reset Password</h2>
         <h3>Enter your new password</h3>
